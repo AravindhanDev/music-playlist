@@ -63,7 +63,7 @@ hr {
   margin: 2rem;
 }
 
-@media all and (max-width: 700px) {
+@media all and (max-width: 985px) {
   #root1 {
     width: 14.5rem;
     height: 65rem;
