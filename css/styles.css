@@ -83,10 +83,17 @@ hr {
   .logo {
     display: block;
     margin: 0 auto;
-    width: 100%;
+    width: 90%;
   }
 
   #footer {
     font-size: 1.3rem;
+  }
+
+  hr {
+    border: 1px solid #fff;
+    width: 15rem;
+    opacity: 0.1;
+    margin-bottom: 1.5rem;
   }
 }
